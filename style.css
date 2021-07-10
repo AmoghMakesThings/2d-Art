@@ -1,0 +1,12 @@
+#h1{
+    font-family: 'Do Hyeon', sans-serif;
+    color: white;
+    max-width: 70%;
+}
+body{
+    background-color: rgb(39, 39, 44);
+}
+::selection {
+    color: black;
+    background: white;
+  }
